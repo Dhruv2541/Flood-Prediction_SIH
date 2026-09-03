@@ -1,0 +1,5 @@
+# ERA5 downloaded data
+ERA5_Data/
+
+# CDS credentials
+.cdsapirc
